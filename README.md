@@ -6,7 +6,7 @@ Canonical record (all versions):
 https://doi.org/10.5281/zenodo.20021692  
 
 Latest version (fixed snapshot):  
-https://doi.org/10.5281/zenodo.20021693  
+https://doi.org/10.5281/zenodo.20023254
 
 
 Multi-Asset Liquidity Networks (MALN) is a theoretical layer within the Wave Liquidity Redistribution Theory (WLRT) / WaveCounter framework.
