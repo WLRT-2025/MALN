@@ -1,0 +1,21 @@
+id: MALN-v1.0-RU
+title: Multi-Asset Liquidity Networks
+version: v1.0
+status: canonical_start
+author: Petr Popov
+date: 2026-05-04
+
+frameworks:
+  - WLRT
+  - WaveCounter
+  - DLAT
+
+language: ru
+
+main_file: canonical/MALN_v1.0_RU_Canonical_Start.md
+freeze_file: freeze/CANONICAL_FREEZE_MALN_v1.0.md
+
+description: >
+  MALN defines high-dimensional liquidity systems as directed topological networks
+  with propagating fragility, non-local node states, route-dependent transitions,
+  and spectral stability structure.
