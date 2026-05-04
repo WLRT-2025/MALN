@@ -1,5 +1,16 @@
-# MALN
-Multi-Asset Liquidity Networks (MALN) — WLRT/WaveCounter framework for high-dimensional liquidity systems modeled as directed topological networks with propagating fragility.
+# MALN — Multi-Asset Liquidity Networks
+
+[![DOI](https://zenodo.org/badge/1228657585.svg)](https://doi.org/10.5281/zenodo.20021692)
+
+Canonical record (all versions):  
+https://doi.org/10.5281/zenodo.20021692  
+
+Latest version (fixed snapshot):  
+https://doi.org/10.5281/zenodo.20021693  
+
+---
+
+Multi-Asset Liquidity Networks (MALN) is a theoretical layer within the Wave Liquidity Redistribution Theory (WLRT) / WaveCounter framework.
 # Multi-Asset Liquidity Networks (MALN)
 
 Multi-Asset Liquidity Networks (MALN) is a theoretical layer within the WLRT / WaveCounter framework.
